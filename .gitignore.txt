@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Entorno virtual
+# Ignorar entornos virtuales
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Ignorar modelos entrenados y checkpoints
+*.pth
+*.pt
+*.h5
+
+# Ignorar bases de datos, etiquetas o historiales
+*.csv
+*.xlsx
+*.tsv
+
+# Ignorar conjuntos de datos de imágenes/videos
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Ignorar carpetas de datos si existen
+data/train_frames/
+data/test_frames/
+data/videos/
+data/frames/
+data/raw/
+*.zip
+*.tar
+*.tar.gz
+
+# Ignorar configuraciones de sistema/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Logs y resultados temporales
+*.log
+*.tmp
+
+# Ignorar imágenes
+*.jpg
+*.jpeg
+*.png
+
+# Ignorar datos
+/data/train_frames/
+/data/test_frames/
+/data/*.csv
+/data/*.mp4
+/data/*.pth
+
+# Ignorar entornos virtuales
+.venv/
+__pycache__/
+
