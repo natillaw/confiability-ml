@@ -1,0 +1,12 @@
+Dataset usado: Truth or Lie de Kaggle
+🔗 https://www.kaggle.com/datasets/kambingbersayaphitam/truthorlie/data
+
+Crédito: Autor del dataset kambingbersayaphitam.
+Licencia del dataset: Revisa la licencia indicada en la página de Kaggle.
+No re-hospedo el dataset en este repositorio para respetar la licencia y evitar repos pesados.
+Para reproducir el entrenamiento:
+
+Descarga desde Kaggle.
+
+Extrae los frames en la estructura data/train y data/test mostrada arriba.
+Ademas usa video_processor.py para volver los videos en frames.
