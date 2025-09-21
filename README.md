@@ -24,3 +24,8 @@ python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
 
+## 🙌 Agradecimientos
+
+- **kambingbersayaphitam** por el dataset [Truth or Lie](https://www.kaggle.com/datasets/kambingbersayaphitam/truthorlie/data) en Kaggle.
+- La comunidad open-source detrás de **OpenCV**, **PyTorch**, **MediaPipe**, **Tkinter** y demás herramientas usadas.
+- A quienes contribuyan con issues, ideas y mejoras en este repositorio.
