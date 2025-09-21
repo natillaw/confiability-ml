@@ -6,7 +6,7 @@ Proyecto para estimar una puntuación de “confiabilidad” en video a partir d
 - **GUI en Tkinter** para evaluar, visualizar y exportar CSV.
 - Señal opcional de mirada con **MediaPipe Face Mesh** (penaliza si no mira a cámara).
 
-> **Nota:** El dataset usado NO es de mi autoría. Ver sección [dataset](#-dataset).
+> **Nota:** El dataset usado NO es de mi autoría. Ver sección dataset.
 
 ---
 
