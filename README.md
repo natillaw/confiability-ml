@@ -1,4 +1,4 @@
-# 📊 Confiabilidad ML — OpenCV (Haar) + PyTorch
+#  Confiabilidad ML — OpenCV (Haar) + PyTorch
 
 Proyecto para estimar una puntuación de “confiabilidad” en video a partir del rostro:
 - Detección facial con **Haar Cascades (OpenCV)**.
@@ -10,14 +10,14 @@ Proyecto para estimar una puntuación de “confiabilidad” en video a partir d
 
 ---
 
-## ✨ Resultados (ejemplo de mi entrenamiento)
+##  Resultados (ejemplo de mi entrenamiento)
 - **Test Acc:** 97.54%  
 - **Precisión / Recall / F1:** ~0.97 / ~0.97 / ~0.97  
 *(tu resultado puede variar en función del split y los frames)*
 
 ---
 
-## 🚀 Instalación rápida
+##  Instalación rápida
 
 ```bash
 python -m venv .venv
